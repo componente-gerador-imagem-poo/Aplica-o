@@ -24,19 +24,17 @@ Bem-vindo à documentação do nosso site de geração de imagens! Este site foi
 
 
 <b>Estrutura do Site</b> <br>
-Página Inicial
-A página inicial oferece uma visão geral das funcionalidades do site e acesso rápido às principais ferramentas.
-Editor de Imagens
-O editor de imagens é a área principal onde os usuários podem criar e modificar suas imagens. Ele inclui:
-Barra de ferramentas: Acesso rápido às funções de edição.
-Área de trabalho: Espaço para visualizar e trabalhar nas imagens.
-Painel de camadas: Gerenciamento de diferentes camadas da imagem.
+<b>Página Inicial</b> <br>
+  >A página inicial oferece uma visão geral das funcionalidades do site e acesso rápido às principais ferramentas. <br>
+<b>Editor de Imagens<b> <br>
+  >O editor de imagens é a área principal onde os usuários podem criar e modificar suas imagens. Ele inclui: <br>
+  >Barra de ferramentas: Acesso rápido às funções de edição.<br>
+  >Área de trabalho: Espaço para visualizar e trabalhar nas imagens.<br>
+  >Painel de camadas: Gerenciamento de diferentes camadas da imagem.<br>
 
-
-.
-Como Usar o Site
-Criando uma Imagem
-Você entrará no site e logo irá aparecer as funcionalidades que você poderá utilizar
+<b>Como Usar o Site</b>
+<b>Criando uma Imagem</b>
+>Você entrará no site e logo irá aparecer as funcionalidades que você poderá utilizar
 Após escolher sua funcionalidade você escolherá a imagem que desejar fazer modificações
 Gerar imagem
 

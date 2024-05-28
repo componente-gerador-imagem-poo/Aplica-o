@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDITAR FORMATO</title>
+    <link rel="shortcut icon" href="img/editor-de-video.png" type="image/x-icon">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            background: radial-gradient(circle, #ff0000, #000000);
+}
+        
+        header {
+            background-color: #000000;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header img {
+            max-width: 200px;
+        }
+        .container {
+            text-align: center;
+            margin-top: 50px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #000000;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        img {
+            width: 50px;
+        }
+        .centralize {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            padding: 10px;
+        }
+        .texto {
+            padding: 10px;
+            font-size: 16px;
+            width: 300px; /* Ajusta el ancho según sea necesario */
+        }
+    </style>
+</head>
+<body>
+
+<header>
+  <a href="index.html"><img src="img/editor-de-video.png" alt="Logo"></a> 
+</header>
+<div class="container">
+    <h3>FORMATO</h3>
+</div>
+<div class="container">
+    <button onclick="selecionarImagem()">Selecionar Imagem</button>
+</div>
+
+<div class="centralize">
+    
+    <label for="formato">Selecione o formato da imagem:</label>
+<select id="formato" name="formato">
+    <option value="png">PNG</option>
+    <option value="jpeg">JPEG</option>
+</select>
+    <button onclick="selecionarImagem()">  inserir   </button>
+
+</div>
+
+</body>
+</html>

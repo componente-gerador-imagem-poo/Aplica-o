@@ -3,27 +3,27 @@
 <b>Visão Geral</b> <br>
 Bem-vindo à documentação do nosso site de geração de imagens! Este site foi desenvolvido para fornecer uma plataforma intuitiva e poderosa para criação e manipulação de imagens, atendendo tanto a iniciantes quanto a profissionais do design gráfico. <br>
 <b>Funcionalidades</b>
-Geração de Imagens
-Adicionar Texto na imagem
-Redimensionamento (resize)
-Recortagem (crop)
-Espelhamento (flip)
-Filtro de escala de cinza (grayscale)
+  >Geração de Imagens <br>
+  >Adicionar Texto na imagem <br>
+  >Redimensionamento (resize) <br>
+  >Recortagem (crop) <br>
+  >Espelhamento (flip) <br>
+  >Filtro de escala de cinza (grayscale) <br> 
 
 
-Exportação
-Exportação em múltiplos formatos: Suporte para exportar imagens em formatos como JPEG, PNG.
+<b>Exportação <br>
+  >Exportação em múltiplos formatos: Suporte para exportar imagens em formatos como JPEG, PNG.<br>
 
 
-Tecnologias Utilizadas
-Front-end
-HTML5: Estrutura básica do site.
-CSS3: Estilização e layout responsivo.
-JavaScript: Interatividade e manipulação dinâmica.
-Frameworks: React.js para construção de componentes reutilizáveis e Vue.js para uma interface de usuário reativa.
+<b>Tecnologias Utilizadas</b> <br>
+  >Front-end<br>
+  >HTML5: Estrutura básica do site. <br>
+  >CSS3: Estilização e layout responsivo. <br>
+  >JavaScript: Interatividade e manipulação dinâmica. <br>
 
 
-Estrutura do Site
+
+<b>Estrutura do Site</b> <br>
 Página Inicial
 A página inicial oferece uma visão geral das funcionalidades do site e acesso rápido às principais ferramentas.
 Editor de Imagens

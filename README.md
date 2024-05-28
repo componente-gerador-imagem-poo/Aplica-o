@@ -1,6 +1,6 @@
 <h1> Documentação do Site de Geração de Imagens</h1>
 
-<b>Visão Geral<b/>
+<b>Visão Geral</b>
 Bem-vindo à documentação do nosso site de geração de imagens! Este site foi desenvolvido para fornecer uma plataforma intuitiva e poderosa para criação e manipulação de imagens, atendendo tanto a iniciantes quanto a profissionais do design gráfico.
 <b>Funcionalidades<b/>
 Geração de Imagens
